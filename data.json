@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Tapa-Buraco",
+        "descricao": "Serviço para conserto de buracos em ruas e avenidas pavimentadas.",
+        "data": 2024,
+        "link": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=991"
+    },
+    {
+        "nome": "Poda de Árvore",
+        "descricao": "Remoção de galhos para manutenção e segurança das árvores em áreas públicas.",
+        "data": 2024,
+        "link": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=344"
+    },
+    {
+        "nome": "Limpeza de Bueiros e Bocas de Lobo",
+        "descricao": "Desobstrução e limpeza de bueiros para prevenir alagamentos.",
+        "data": 2024,
+        "link": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=378"
+    },
+    {
+        "nome": "Varrição de Ruas e Calçadas",
+        "descricao": "Serviço de varrição manual ou mecanizada de vias e logradouros públicos.",
+        "data": 2024,
+        "link": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=376"
+    },
+    {
+        "nome": "Manutenção da Iluminação Pública",
+        "descricao": "Reparo de lâmpadas queimadas ou danificadas em postes de iluminação pública.",
+        "data": 2024,
+        "link": "https://sp156.prefeitura.sp.gov.br/portal/servicos/informacao?servico=415"
+    }
+]
