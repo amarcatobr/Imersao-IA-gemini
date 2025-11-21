@@ -1,0 +1,1 @@
+imersão dev com gemini
